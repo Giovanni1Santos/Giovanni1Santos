@@ -37,5 +37,5 @@ My name is Giovanni Leão. I'm a student of computational engineering at SENAI C
 
 ##
 
-![Snake animation](https://github.com/Giovanni1Santos/blob/output/github-contribution-grid-snakes.svg)
+![Snake animation](https://github.com/Giovanni1Santos/Giovanni1Santos/blob/output/github-contribution-grid-snakes.svg)
 
