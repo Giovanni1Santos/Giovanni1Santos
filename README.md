@@ -35,7 +35,4 @@ My name is Giovanni Leão. I'm a student of computational engineering at SENAI C
   <a href="https://www.linkedin.com/in/giovanni-leão-302140137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-![Snake animation](https://github.com/Giovanni1Santos/Giovanni1Santos/blob/output/github-contribution-grid-snakes.svg)
 
