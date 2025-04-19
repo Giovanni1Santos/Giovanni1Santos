@@ -13,10 +13,12 @@ My name is Giovanni Leão. I'm a student of computational engineering at SENAI C
 ##
 
 <div>
-  <a href="https://github.com/Giovanni1Santos">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Giovanni1Santos&show_icons=true&theme=tokyonight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni1Santos&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/Giovanni1Santos" target="_blank">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Giovanni1Santos&show_icons=true&theme=tokyonight&cache_seconds=3600" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni1Santos&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=3600" />
+  </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
